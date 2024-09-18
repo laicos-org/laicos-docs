@@ -2,4 +2,4 @@
 [Documentations
 
 Our documentations write in gitbook
-[Laicos Docs](https://laicos.gitbook.io/laicos/))
+[Laicos documentation](https://laicos.gitbook.io/laicos/)
